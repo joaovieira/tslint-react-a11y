@@ -12,7 +12,7 @@ npm i tslint-react-a11y
 
 In `tslint.json`:
 
-```json
+```js
 {
   "extends": ["tslint:latest", "tslint-react", "tslint-react-a11y"],
   "rules": {
