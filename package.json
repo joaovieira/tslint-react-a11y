@@ -1,0 +1,25 @@
+{
+  "name": "tslint-react-a11y",
+  "version": "1.0.0",
+  "description": "JSX a11y lint rules for TSLint.",
+  "main": "tslint-react-a11y.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaovieira/tslint-react-a11y.git"
+  },
+  "keywords": [
+    "tslint",
+    "react",
+    "a11y",
+    "typescript"
+  ],
+  "author": "joaovieira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaovieira/tslint-react-a11y/issues"
+  },
+  "homepage": "https://github.com/joaovieira/tslint-react-a11y#readme",
+  "dependencies": {
+    "tslint-microsoft-contrib": "^5.0.3"
+  }
+}
