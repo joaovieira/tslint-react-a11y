@@ -1,6 +1,6 @@
 {
   "name": "tslint-react-a11y",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "JSX a11y lint rules for TSLint.",
   "main": "tslint-react-a11y.js",
   "repository": {
@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/joaovieira/tslint-react-a11y#readme",
   "dependencies": {
-    "tslint-microsoft-contrib": "^5.0.3"
+    "tslint-microsoft-contrib": "^6.2.0"
   }
 }
